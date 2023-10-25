@@ -46,10 +46,10 @@ require (
 	go.uber.org/zap v1.17.0
 	golang.org/x/crypto v0.9.0
 	golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17
-	golang.org/x/oauth2 v0.6.0
+	golang.org/x/oauth2 v0.7.0
 	golang.org/x/sync v0.1.0
 	golang.org/x/text v0.9.0
-	google.golang.org/grpc v1.54.0
+	google.golang.org/grpc v1.56.3
 	gorm.io/driver/mysql v1.3.5
 	gorm.io/gorm v1.23.8
 	stathat.com/c/consistent v1.0.0
@@ -73,11 +73,11 @@ require (
 	github.com/pierrec/lz4/v4 v4.1.12 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	golang.org/x/arch v0.3.0 // indirect
-	google.golang.org/genproto v0.0.0-20230331144136-dcfb400f0633 // indirect
+	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
 )
 
 require (
-	cloud.google.com/go/compute v1.19.0 // indirect
+	cloud.google.com/go/compute v1.19.1 // indirect
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
 	github.com/99designs/keyring v1.2.1 // indirect
